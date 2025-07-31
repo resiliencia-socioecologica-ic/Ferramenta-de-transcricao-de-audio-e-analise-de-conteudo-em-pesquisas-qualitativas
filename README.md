@@ -8,7 +8,7 @@ Pesquisadores que analisam entrevistas, depoimentos e outros tipos de mídia fre
 
 ## 💡 A Solução
 
-Este notebook centraliza todo o fluxo de análise em um único ambiente interativo e acessível. Com interfaces gráficas simples, a ferramenta permite que pesquisadores, mesmo com pouca ou nenhuma experiência em programação, utilizem técnicas avançadas de Processamento de Linguagem Natural (PLN) para explorar seus dados.
+Este notebook centraliza todo o fluxo de análise em um único ambiente. Ele foi projetado para ser executado prioritariamente no Google Colab, que oferece de forma nativa os elementos de interface (como botões e menus) que dispensam a interação direta com o código. Com essas interfaces gráficas simples, a ferramenta permite que pesquisadores, mesmo com pouca ou nenhuma experiência em programação, utilizem técnicas avançadas de Processamento de Linguagem Natural (PLN) para explorar seus dados.
 
 ---
 
@@ -38,3 +38,19 @@ A ferramenta é organizada em um fluxo sequencial e oferece um robusto conjunto 
 ## 🔓 Código Aberto e Expansível
 
 Por ser uma solução de código aberto, esta ferramenta se destaca pela flexibilidade. A comunidade de pesquisadores pode adaptar o código, expandir funcionalidades e integrar novas metodologias para atender a necessidades emergentes. Sua contribuição é muito bem-vinda!
+
+---
+
+## 🎓 Autoria e Apoio
+
+Esta ferramenta foi desenvolvida por **Gabriel de Antonio Mazetto** como parte de seu projeto de Iniciação Científica (PIBIC/CNPq/INPE) durante o período de Agosto/2024 a Agosto/2025.
+
+**Orientação e Colaboração:**
+* **Orientadora:** Dra. Minella Alves Martins (INPE)
+* **Co-orientadora:** Dra. Maria Paula Pires de Oliveira (PUC-Campinas)
+* **Colaboradora:** Denise Helena Lombardo Ferreira (PUC-Campinas)
+
+**Apoio Institucional:**
+* Este trabalho foi elaborado com apoio do **Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)**, por meio de bolsa PIBIC/CNPq/INPE, e da **Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES)** – Código de Financiamento 001.
+
+---
