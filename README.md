@@ -1,5 +1,8 @@
 # 🗣️ Ferramenta Para Análise de Conteúdo Socioambiental
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/resiliencia-socioecologica-ic/Ferramenta_de_Analise_de_Conteudo/blob/main/Ferramenta_de_Analise_de_Conteudo.ipynb)
+
+
 Uma ferramenta de código aberto, desenvolvida como um notebook Python interativo, para apoiar a análise qualitativa de conteúdo em pesquisas socioambientais. O projeto automatiza e enriquece o fluxo de trabalho do pesquisador, desde a transcrição de mídias até a codificação e análise temática.
 
 ## 🎯 O Problema
@@ -9,6 +12,8 @@ Pesquisadores que analisam entrevistas, depoimentos e outros tipos de mídia fre
 ## 💡 A Solução
 
 Este notebook centraliza todo o fluxo de análise em um único ambiente. Ele foi projetado para ser executado prioritariamente no Google Colab, que oferece de forma nativa os elementos de interface (como botões e menus) que dispensam a interação direta com o código. Com essas interfaces gráficas simples, a ferramenta permite que pesquisadores, mesmo com pouca ou nenhuma experiência em programação, utilizem técnicas avançadas de Processamento de Linguagem Natural (PLN) para explorar seus dados.
+
+**-> [Clique aqui para abrir e executar a ferramenta diretamente no Google Colab.](https://colab.research.google.com/github/resiliencia-socioecologica-ic/Ferramenta_de_Analise_de_Conteudo/blob/main/Ferramenta_de_Analise_de_Conteudo.ipynb)**
 
 ---
 
