@@ -1,6 +1,6 @@
-# 🗣️ Ferramenta Para Análise de Conteúdo Socioambiental
+# 🗣️ Ferramenta de transcrição de áudio e análise de conteúdo em pesquisas qualitativas.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/resiliencia-socioecologica-ic/Ferramenta_de_Analise_de_Conteudo/blob/main/Ferramenta_de_Analise_de_Conteudo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/resiliencia-socioecologica-ic/Ferramenta-de-transcricao-de-audio-e-analise-de-conteudo-em-pesquisas-qualitativas/blob/main/Ferramenta-de-transcricao-de-audio-e-analise-de-conteudo-em-pesquisas-qualitativas.ipynb)
 
 
 Uma ferramenta de código aberto, desenvolvida como um notebook Python interativo, para apoiar a análise de conteúdo em pesquisas qualitativas. O projeto automatiza e enriquece o fluxo de trabalho do pesquisador, desde a transcrição de mídias até a codificação e análise temática.
