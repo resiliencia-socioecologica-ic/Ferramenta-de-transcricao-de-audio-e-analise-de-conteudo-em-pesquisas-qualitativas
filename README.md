@@ -21,7 +21,7 @@ Este notebook centraliza todo o fluxo de análise em um único ambiente. Ele foi
 
 A ferramenta é organizada em um fluxo sequencial e oferece um robusto conjunto de análises:
 
-* **🎙Transcrição Automática:** Utiliza o modelo **Whisper (OpenAI)** para gerar transcrições precisas de múltiplos arquivos de áudio e vídeo, com a opção de analisar os textos de forma individual ou conjunta.
+* **🎙Transcrição Automática:** Utilize o modelo **Whisper (OpenAI)** para gerar transcrições precisas de múltiplos arquivos de áudio e vídeo, com a opção de analisar os textos de forma individual ou conjunta.
 
 * **☁Análise Exploratória Visual:**
     * **Nuvem de Palavras e Gráfico de Frequência:** Identifique rapidamente os termos mais recorrentes nos textos.
